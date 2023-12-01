@@ -1,4 +1,7 @@
 package ar.com.codoacodo.interfaces;
 
-public class ILogger {
+//ESTO ES EL CONTRATO
+public interface ILogger {
+    //QUE
+    public void log();
 }
