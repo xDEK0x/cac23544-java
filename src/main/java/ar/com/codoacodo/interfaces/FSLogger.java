@@ -1,6 +1,6 @@
 package ar.com.codoacodo.interfaces;
 
-public class FSLogger extends ILogger {
+public class FSLogger implements ILogger {
 
     //implementar el metodo log
     //polimorfismo: sobreescritura

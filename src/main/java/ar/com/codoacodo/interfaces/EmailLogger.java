@@ -1,6 +1,6 @@
 package ar.com.codoacodo.interfaces;
 
-public class EmailLogger extends ILogger {
+public class EmailLogger implements ILogger {
 
     //COMO
     public void log() {
